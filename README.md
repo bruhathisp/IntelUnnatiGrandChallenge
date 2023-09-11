@@ -60,6 +60,51 @@ In the context of the analysis you conducted, it means that regardless of the sp
 In simpler terms, drivers tend to maintain a relatively consistent speed when they encounter these different types of alerts. This suggests that the alerts themselves while conveying various types of information or warnings, do not typically cause drivers to slow down or speed up significantly in response.
 
 This information can be valuable for understanding driver behaviour and the impact of different types of alerts on their driving patterns. It may also indicate that drivers perceive these alerts as informative rather than as urgent warnings that require immediate changes in their speed.
+## Summary of how each vehicle (Vehicle ID) is different from the others
+Vehicle ID Alert Type  Mean Speed  P-Value (Tukey-Kramer Test)  \
+0         2846    cas_ldw   51.639183                 3.040692e-01   
+1         2846    cas_hmw   37.578248                 0.000000e+00   
+2         2846    cas_pcw   18.636829                 0.000000e+00   
+3         2846    cas_fcw   39.613793                 0.000000e+00   
+4          805    cas_ldw   49.559454                 9.759021e-01   
+5          805    cas_hmw   34.408091                 1.203149e-12   
+6          805    cas_fcw   33.879747                 1.203149e-12   
+7          805    cas_pcw   17.812785                 1.203149e-12   
+8         5339    cas_hmw   35.212048                 6.372024e-02   
+9         5339    cas_ldw   51.625995                 1.534772e-12   
+10        5339    cas_pcw   16.134289                 1.534772e-12   
+11        5339    cas_fcw   37.259804                 1.534772e-12   
+12        3143    cas_ldw   51.350457                 8.932338e-01   
+13        3143    cas_hmw   34.671347                 5.752065e-13   
+14        3143    cas_fcw   33.634146                 5.752065e-13   
+15        3143    cas_pcw   18.918206                 5.752065e-13   
+
+    Significant Difference  
+0                    False  
+1                     True  
+2                     True  
+3                     True  
+4                    False  
+5                     True  
+6                     True  
+7                     True  
+8                    False  
+9                     True  
+10                    True  
+11                    True  
+12                   False  
+13                    True  
+14                    True  
+15                    True
+Different Behaviors: Each vehicle (identified by its Vehicle ID) behaves differently when encountering different alert types. This behavior is reflected in the speeds at which they travel when these alerts are triggered.
+
+Significant Differences in Mean Speeds: When comparing the mean speeds of each vehicle for different alert types, statistical analysis indicates that there are significant differences. In other words, the speeds at which each vehicle travels in response to these alerts are not uniform, and there are noticeable variations.
+
+Variations in Response: Vehicles 805 and 3143 exhibit significant differences in mean speed across all alert types. This suggests that these two vehicles consistently change their speeds significantly in response to various alerts, regardless of the specific type of alert.
+
+Specific Alert Type Variations: On the other hand, vehicles 2846 and 5339 show variations primarily in response to specific alert types. This means that their behavior differs significantly for certain types of alerts compared to others, but these differences may not be consistent across all alert types.
+
+
 
 
 
