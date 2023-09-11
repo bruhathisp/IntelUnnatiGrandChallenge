@@ -1,22 +1,42 @@
 # Contents
 ## Speed Analysis
-## Alert Analysis
-## Vehicle Analysis
-
-
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/7da7b293-c690-4e83-8fa1-0750b278dbce)
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/20bd15ce-d019-4e16-9394-9d220e0026bb)
-![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/adefd72c-6e47-49d3-bbed-9fc573fbfbe5)
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/a5c06332-9ba8-4f6c-8d8e-5ac8b0863712)
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/ff94ab6c-f8e0-43b1-8ad1-2e99e9a53d85)
+
+
+
+## Alert Analysis
+![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/adefd72c-6e47-49d3-bbed-9fc573fbfbe5)
+## temporal Analysis
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/1966deaf-32e4-4b5e-b456-b9a77b04e1e6)
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/6d28fa70-d31e-49e0-9bca-ca96bf80ddc1)
-
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/14e397d1-c2b7-4246-b308-60ff07e613a9)
+
+
+
+
+
+
+
+
 
 # Day vs Alert
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/eb8116ec-c774-41c3-a2cd-61030eeaa71a)
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/7be847f2-8355-4143-89f0-b8d08a2161ab)
+
+## Vehicle Analysis Low data for 1995 vehicle_id
+![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/14eaa2c0-3449-4f55-b6e8-f375543ce856)
+![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/1c7fa130-69e0-4ece-93a3-ff4ee821b9d1)
+![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/0c386732-35db-442d-adbd-d81a9c48bbc5)
+![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/17a32fc4-8b68-4a2d-88e9-bb8d900c07b6)
+
+## Speed vs Alert vs Vehicle
+![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/5d08da07-4986-4bd3-9e88-841b47e8453d)
+
+
+
 
 Stationarity:
 Stationarity is a fundamental concept in time series analysis, signifying that the statistical properties of a dataset remain consistent over time. In stationary time series data, factors like mean and variance do not exhibit significant changes as time progresses.
