@@ -11,5 +11,16 @@ The analysis for hmw alert
 The analysis for pcw alert
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/df416e92-c969-49c9-b5f9-0c611000fdd4)
 
+# Time Series Visualisation and separate vehicle_id analysis
+![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/35081b65-bce9-4863-b2a8-ddd39eca3bf4)
+
+# Hospitals nearby Major Blackspots
+
+
+
+
+
+
+
 
 
