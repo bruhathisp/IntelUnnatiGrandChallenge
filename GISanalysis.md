@@ -17,6 +17,7 @@ The analysis for pcw alert
 # Hospitals near Major Blackspots
 
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/40b0cb10-9d9b-4bd7-845e-00f5f268bb75)
+
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/d8246c67-638f-477b-967b-35d9b394ad4d)
 ![image](https://github.com/bruhathisp/IntelUnnatiGrandChallenge/assets/91585301/5d8fda0e-83b0-4215-a617-0f0522c0e1ee)
 
